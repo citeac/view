@@ -1,0 +1,12 @@
+{
+  "name": "view",
+  "description": "view component",
+  "version": "1.0.0",
+  "dependencies": {
+    "component/classes": "1.2.1",
+    "component/dom": "1.0.5",
+    "component/emitter": "1.1.3",
+    "component/events": "1.0.9",
+    "component/reactive": "v1.2.0"
+  }
+}
